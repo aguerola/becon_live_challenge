@@ -52,15 +52,17 @@ https://play.google.com/store/apps/details?id=live.becon.app
 
 Screenshots:
 
-###### ![0](/Users/antonio/Downloads/Screenshots 3/0.jpg)
+|   ![2](images/0.jpg)   |   ![1](images/1.jpg)   |   ![2](images/2.jpg)   |
+| ---- | ---- | ---- |
+|   ![3](images/3.jpg)   |   ![4](images/4.jpg)   |      |
 
-![1](images/1.jpg)
 
-![2](images/2.jpg)
 
-![3](images/3.jpg)
 
-![4](images/4.jpg)
+
+
+
+
 
 - Other projects: The Mindfulness App - CTO
 
