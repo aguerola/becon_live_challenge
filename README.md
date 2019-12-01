@@ -58,16 +58,10 @@ Screenshots:
 
 
 
+## Other projects: The Mindfulness App - CTO
 
+Firebase, android, iOS. Flutter
 
+I have been working on this project for 3 years. I was hired to build the android app from scratch, and I also took responsibility of the backend side (Firebase). We have millions of downloads only on android
 
-
-
-
-- Other projects: The Mindfulness App - CTO
-
-  Firebase, android, iOS. Flutter
-
-  I have been working on this project for 3 years. I was hired to build the android app from scratch, and I also took responsibility of the backend side (Firebase). We have millions of downloads only on android
-
-  We are now in the process of rewriting the code for both mobile platforms with Flutter.
+We are now in the process of rewriting the code for both mobile platforms with Flutter.
